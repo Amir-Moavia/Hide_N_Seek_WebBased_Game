@@ -63,4 +63,4 @@ A high-stakes, top-down stealth action game built with **React**, **TypeScript**
 *   **Hiding**: Enter green areas (bushes) to reduce guard visibility. A "HIDDEN" indicator will appear when you are safe.
 
 ---
-Built with ⚡ by [Your Name/Handle]
+Built with ⚡ by Amir Moavia
