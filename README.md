@@ -2,7 +2,7 @@
 
 A high-stakes, top-down stealth action game built with **React**, **TypeScript**, and **HTML5 Canvas**. Navigate through procedurally generated environments, evade detection from intelligent guards, and survive as long as possible.
 
-![Game Preview](./preview.png)
+![Game Preview](./readme.png)
 
 ## 🎮 Features
 
