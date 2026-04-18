@@ -1,0 +1,6 @@
+{
+  "name": "Hide N Seek",
+  "description": "A top-down 2D stealth game where you must hide from AI seekers. Use WASD to move, Shift to run, and find cover to survive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
